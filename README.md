@@ -4,7 +4,6 @@
 <!-- Badges -->
 [![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini%20AI-8E75B5?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22640628-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22640628) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
