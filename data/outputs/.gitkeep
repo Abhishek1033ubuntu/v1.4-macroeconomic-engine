@@ -1,0 +1,7 @@
+# Placeholder to ensure git tracks the empty outputs directory
+
+When you run python main.py, it populates this folder with:
+
+v14_simulation_results.png (High-resolution diagnostic plots)
+
+v14_monthly_ledger.csv (Exported 60-month macroeconomic output data)
