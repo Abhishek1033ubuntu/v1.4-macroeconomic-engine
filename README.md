@@ -1,8 +1,14 @@
 # V1.4 Macroeconomic Upstream Telemetry Framework Engine
 > **An Open-Source Macroeconomic Simulation System for Zero-Deficit Fiscal Policy**
 
+<!-- Badges -->
+[![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini%20AI-8E75B5?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22640628-blue?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
 
 ## Executive Summary
 Traditional tax frameworks (such as GST/VAT) rely heavily on merchant-level invoicing, post-facto tax filing, and intrusive store-level audits. This structural reliance creates massive compliance friction and revenue leakage, particularly within unorganized retail and informal economic sectors.
