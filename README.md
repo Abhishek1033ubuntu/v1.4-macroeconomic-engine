@@ -63,8 +63,11 @@ mining_sector = EconomicSector(
 
 model.register_sector(mining_sector)
 ```
-Citation & Academic Reference
+
+# Citation & Academic Reference
+
 If you use this simulation model or framework in policy whitepapers or research articles, please cite:
+```
 @software{v14_macroeconomic_engine_2026,
   author = {Abhishek Singh},
   title = {V1.4 Macroeconomic Upstream Telemetry Framework: A Zero-Deficit Fiscal Simulation Engine},
@@ -73,8 +76,9 @@ If you use this simulation model or framework in policy whitepapers or research 
   journal = {GitHub Repository},
   howpublished = {\url{[https://github.com/Abhishek1033ubuntu/v1.4-macroeconomic-engine](https://github.com/Abhishek1033ubuntu/v1.4-macroeconomic-engine)}}
 }
+```
+# License
 
-License
 Distributed under the MIT License. See LICENSE for details.
 
 
