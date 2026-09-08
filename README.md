@@ -18,14 +18,14 @@ The **V1.4 Master Macroeconomic Framework** transitions indirect tax collection 
 ## The Universal 4-Class Upstream Taxonomy
 
 Instead of writing bespoke tax rules for every industry, V1.4 classifies all business models into **4 Universal Taxonomy Classes**:
-```
+
 | Taxonomy Class | Scope / Target Sectors | Capture Node / Gate | Model Rate | Small-Producer Protection |
 | :--- | :--- | :--- | :--- | :--- |
 | **Class 1: Perishable / Agri** | Fisheries, Dairy, Agriculture | Processing Mills, Cold Storage, Harbors | **3.0%** | Primary farmers & fishermen = **0% Tax / 0% Audit** |
 | **Class 2: High-Excise** | Alcohol, Spirits, Tobacco | Distillery / Depot Gates | **50.0%** | Retail shops buy duty-paid stock; keep standard margins |
 | **Class 3: Heavy Resource / Energy** | Fuel Refineries, Power Grid, Real Estate | Grid Telemetry, Digital Land Registry | **4.5% – 6.0%** | Direct automated collection at major infrastructure nodes |
 | **Class 4: Discrete FMCG** | Textiles, Pharma, Packaged FMCG, Kirana | Primary B2B Wholesale Gates | **2.2%** | Unbranded loose staples = **0% Zero-Rated** |
-```
+
 ---
 
 ## Key Performance Results (5-Year Run)
